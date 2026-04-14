@@ -18,7 +18,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 - 🎓 &nbsp; 2nd Year B.Tech CSE @ **CEC Jhanjeri**
 - 🔨 &nbsp; Building **HardCode Arena** & **Horizon**
-- 📈 &nbsp; Top **5,00,000** on LeetCode · GFG Rank **#63** @ CEC
+- 📈 &nbsp; Top **5,00,000** on LeetCode · GFG Rank **#59** @ CEC
 - 💼 &nbsp; Passionate about **tech + business**
 - 🌱 &nbsp; Currently exploring **Full Stack + Data Analytics**
 - 🤝 &nbsp; Open to **Internships · Open Source · Collabs**
