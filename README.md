@@ -20,7 +20,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 - 🔨 &nbsp; Building **SmartPark** & **Horizon**
 - 📈 &nbsp; Top **5,00,000** on LeetCode · GFG Rank **#59** @ CEC
 - 💼 &nbsp; Passionate about **tech + business**
-- 🌱 &nbsp; Currently exploring **Full Stack + Data Analytics + DSA**
+- 🌱 &nbsp; Currently exploring **Full Stack + Data Analytics + DSA with CPP**
 - 🤝 &nbsp; Open to **Internships · Open Source · Collabs**
 
 <br/>
