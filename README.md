@@ -2,6 +2,9 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&pause=99999&color=FF6EB4&center=true&vCenter=true&width=600&height=110&lines=Harnoor+Kaur" alt="Harnoor Kaur" />
+<p align="center">
+  🌐 <b>Portfolio:</b> https://harnoor-portfolio-three.vercel.app/
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&pause=1000&color=BB8FCE&center=true&vCenter=true&width=600&lines=2nd+Year+CSE+%40+CEC+Jhanjeri+%7C+Builder+%7C+Problem+Solver;Building+HardCode+Arena+%26+Horizon+%F0%9F%9A%80;Top+5L+LeetCode+%7C+GFG+Rank+%2363+%40+CEC;Open+to+Internships+%2C+Open+Source+%26+Collabs" alt="Typing SVG" />
 
