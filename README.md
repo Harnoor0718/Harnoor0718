@@ -28,7 +28,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 <br/>
 
-> *"Code hard, think business, build something people love."*
+> *"Code hard, think business, build something that people love."*
 
 <br/><br/><br/>
 
