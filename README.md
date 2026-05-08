@@ -21,7 +21,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 - 🎓 &nbsp; 2nd Year B.Tech CSE @ **CEC Jhanjeri**
 - 🔨 &nbsp; Exploring **Web Development & DSA**
-- 📈 &nbsp; Top **3,80,000** on LeetCode · GFG Rank **#51** @ CEC
+- 📈 &nbsp; Top **3,80,000** on LeetCode · GFG Rank **#50** @ CEC
 - 💼 &nbsp; Passionate about **tech + business**
 - 🌱 &nbsp; Currently exploring **Full Stack + DSA with CPP**
 - 🤝 &nbsp; Open to **Internships · Open Source · Collabs**
