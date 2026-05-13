@@ -65,7 +65,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 | Project | Description | Status |
 |--------|-------------|--------|
 | ⚡ **HardCode Arena** | One-stop DSA platform with debugging challenges & curated problems | ![Building](https://img.shields.io/badge/IN_PROGRESS-FF6EB4?style=flat-square) |
-| 🌐 **Horizon** | Unified profile dashboard + AI resume maker + ATS checker | ![Building](https://img.shields.io/badge/BUILDING-9B59B6?style=flat-square) |
+| 🌐 **Horizon** | Unified profile dashboard + AI resume maker + ATS checker + Codeforces Competitions| ![Building](https://img.shields.io/badge/BUILDING-9B59B6?style=flat-square) |
 
 </div>
 
