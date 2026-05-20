@@ -102,7 +102,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 - 🔖 Slot booking with real-time availability tracking
 - 📱 QR code based check-in and check-out system
 - 📊 Revenue reports — daily, weekly, monthly analytics
-- 🧠 Built with full OOP principles: inheritance, polymorphism, interfaces
+- 🧠 Built with full OOP principles: inheritance, polymorphism, interfaces, classes & objects
 
 **Tech Stack:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
