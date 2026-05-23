@@ -124,7 +124,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 - 📚 Browse notes by semester and subject — organized and easy to find
 - 🔍 Powerful document search feature
-- 🛡️ Admin panel to manage uploads and content
+- 🛡️ Admin panel to manage uploads and content in structured way
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
