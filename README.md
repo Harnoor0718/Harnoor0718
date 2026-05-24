@@ -22,7 +22,7 @@
 
 Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things that matter.
 
-- 🎓 &nbsp; 2nd Year B.Tech CSE @ **CGC University, Mohali**
+- 🎓 &nbsp; 2nd Year(4th Sem) B.Tech CSE @ **CGC University, Mohali**
 - 🔨 &nbsp; Full-Stack Web Developer & DSA with C++
 - 🏆 &nbsp; AVATAR 2K26 Ideathon **1st Place** · 100 Days Coding **1st Position**
 - 📈 &nbsp; Solved **900+** problems on LeetCode, GFG & HackerRank
