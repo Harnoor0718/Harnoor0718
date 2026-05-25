@@ -58,7 +58,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 - 📦 Lists all products with stock levels and daily purchase tracking
 - 🤖 AI suggests which products need reordering based on threshold limits
-- 📱 Built as a expo mobile app with smooth UX for non-tech shopkeepers
+- 📱 Built as a multilingual expo mobile app with smooth UX for non-tech shopkeepers
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
