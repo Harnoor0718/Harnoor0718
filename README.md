@@ -79,7 +79,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 - 🔗 Aggregates GitHub, LeetCode, LinkedIn & HackerRank profiles in one dashboard
 - 🤖 AI Resume Builder with PDF export and ATS Score Checker
-- 🏆 Codeforces competition suggestions for competitive programmers
+- 🏆 Codeforces competition suggestions for competitive programmers based on user's skills
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
