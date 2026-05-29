@@ -146,7 +146,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 > Automated payment tracking system with UPI QR code generation and real-time status updates.
 
 - 📱 Generates scannable UPI QR codes instantly
-- ⚡ Real-time payment status tracking with auto-refresh every 5 seconds
+- ⚡ Real-time payment status tracking with auto refresh every 5 seconds
 - 📄 PDF receipt generation and CSV export for transaction data
 
 **Tech Stack:**
