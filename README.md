@@ -31,7 +31,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 
 <br/>
 
-> *"Build things that matter. Compete to grow. Never stop learning."*
+> *"Building things that matter. Compete to grow. Never stop learning."*
 
 <br/><br/><br/>
 
