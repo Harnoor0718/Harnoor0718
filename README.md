@@ -7,7 +7,7 @@
   🌐 <b>Portfolio:</b> <a href="https://harnoor-portfolio-three.vercel.app/">harnoor-portfolio-three.vercel.app</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=14&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=2nd+Year+CSE+%40+CGC+Jhanjeri+%7C+Full-Stack+Developer;DSA+with+C%2B%2B+%7C+Hackathon+Builder+%7C+Problem+Solver;AVATAR+2K26+Ideathon+Winner+%F0%9F%A5%87+%7C+100+Days+Coding+1st+Position;Open+to+Internships+%2C+Open+Source+%26+Collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=14&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=2nd+Year+CSE+%40+CGC+University+%7C+Full-Stack+Developer;DSA+with+C%2B%2B+%7C+Hackathon+Builder+%7C+Problem+Solver;AVATAR+2K26+Ideathon+Winner+%F0%9F%A5%87+%7C+100+Days+Coding+1st+Position;Open+to+Internships+%2C+Open+Source+%26+Collabs" alt="Typing SVG" />
 
 </div>
 
