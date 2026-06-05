@@ -100,7 +100,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 > Complete parking management system with slot booking, QR check-in/out and revenue analytics.
 
 - 🔖 Slot booking with real-time availability tracking
-- 📱 QR code based check-in and check-out system
+- 📱 QR code based check-in and check-out live system
 - 📊 Revenue reports — daily, weekly, monthly analytics
 - 🧠 Built with full OOP principles: inheritance, polymorphism, interfaces, classes & objects
 
