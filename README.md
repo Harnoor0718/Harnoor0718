@@ -26,7 +26,7 @@ Hi! I'm **Harnoor Kaur**, a passionate CSE student who loves building things tha
 - 🔨 &nbsp; Full-Stack Web Developer & DSA with C++ & Data Analyst
 - 🏆 &nbsp; AVATAR 2K26 Ideathon **1st Place** · 100 Days Coding **1st Position**
 - 📈 &nbsp; Solved **1200+** problems on LeetCode, GFG & HackerRank
-- 🌱 &nbsp; Currently working on **DSA** & exploring AI integrations in various projects
+- 🌱 &nbsp; Currently working on **DSA** & Data Analysis
 - 🤝 &nbsp; Open to **Internships · Open Source · Collabs**
 
 <br/>
