@@ -27,7 +27,7 @@ Hi! I'm **Harnoor Kaur**, a CSE student who builds with data and code in equal m
 - 🧠 &nbsp; Strong fundamentals in **DSA (C++), OOP, and DBMS**
 - 🏆 &nbsp; AVATAR 2K26 Ideathon **1st Place** · 100 Days Coding **1st Position**
 - 📈 &nbsp; Solved **1350+** problems on LeetCode, GFG & HackerRank
-- 🌱 &nbsp; Currently deepening my skills in **Data Analysis & Advanced DSA**
+- 🌱 &nbsp; Currently deepening my skills in **Data Analysis & Advanced DSA in C++**
 - 🤝 &nbsp; Open to **Internships · Open Source · Collabs**
 
 <br/>
