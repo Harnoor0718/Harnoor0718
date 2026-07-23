@@ -151,7 +151,7 @@ Hi! I'm **Harnoor Kaur**, a CSE student who builds with data and code in equal m
 > AI-powered mobile app for kirana shopkeepers to manage stock and get smart reorder suggestions.
 
 - 📦 Lists all products with stock levels and daily purchase tracking
-- 🤖 AI suggests which products need reordering based on threshold limits
+- 🤖 AI suggests which products needs reordering based on threshold limits
 - 📱 Built as a multilingual Expo mobile app with smooth UX for non-tech shopkeepers
 
 **Tech Stack:**
