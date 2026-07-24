@@ -227,7 +227,7 @@ Hi! I'm **Harnoor Kaur**, a CSE student who builds with data and code in equal m
 - 🎯 **AVATAR 2K26 Ideathon** — 1st Position, CGC University Mohali
 - 💻 **100 Days of Coding Challenge**, CGC University Mohali
 - 🤖 **Introduction to Prompt Engineering**, Simplilearn SkillUp
-- 🐍 **Programming Fundamentals using Python — Part 1**, Infosys Springboard
+- 🐍 **Programming Fundamentals using Python**, Infosys Springboard
 
 ---
 
