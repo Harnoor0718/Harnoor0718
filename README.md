@@ -104,7 +104,7 @@ Hi! I'm **Harnoor Kaur**, a CSE student who builds with data and code in equal m
 <summary><b>📺 YouTube Comment Sentiment Analyzer</b></summary>
 <br/>
 
-> Data analytics project that fetches and analyzes YouTube video comments to surface sentiment and trends.
+> Data analytics project that fetches and analyzes YouTube video comments to surface sentiment and trends analysis.
 
 - 🔍 Classifies comments as positive, negative, or neutral using sentiment analysis
 - 📊 Visualizes sentiment distribution, trends, and keyword patterns
