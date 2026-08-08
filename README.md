@@ -216,7 +216,7 @@ Hi! I'm **Harnoor Kaur**, a CSE student who builds with data and code in equal m
 |------------|-------|--------|
 | 🥇 | AVATAR 2K26 Ideathon — CGC University Mohali (Team Vertex) | **1st Place** |
 | 🥇 | 100 Days of Coding Challenge — CGC Mohali | **1st Position** |
-| 🏅 | Odoo Hackathon — CGC University Mohali | **Top 7** |
+| 🏅 | Odoo Hackathon — CGC University Mohali | **Top 7 Position** |
 | 🚀 | Hack-N-Win 3.0 — CGC University Mohali | Built *Horizon* |
 | 💻 | Code Crafter 3.0 — CT University + IBM | Participated |
 
