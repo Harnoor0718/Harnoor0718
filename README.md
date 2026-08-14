@@ -22,7 +22,7 @@
 
 Hi! I'm **Harnoor Kaur**, a CSE student who builds with data and code in equal measure.
 
-- 🎓 &nbsp; 3rd Year(5th sem) B.Tech CSE @ **CGC University, Mohali** · CGPA **9.35**
+- 🎓 &nbsp; 3rd Year(5th sem) B.Tech CSE @ **CGC University, Mohali** · CGPA **9.2**
 - 📊 &nbsp; Data Analytics with **Python (Pandas, NumPy, Power BI, Matplotlib)** + Full-Stack Web Dev (**MERN**)
 - 🧠 &nbsp; Strong fundamentals in **DSA (C++), OOP, and DBMS**
 - 🏆 &nbsp; AVATAR 2K26 Ideathon **1st Place** · 100 Days Coding **1st Position**
