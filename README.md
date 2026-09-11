@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&pause=99999&color=7C3AED&center=true&vCenter=true&width=600&height=110&lines=Harnoor+Kaur" alt="Harnoor Kaur" />
 
 <p align="center">
-  🌐 <b>Portfolio:</b> <a href="https://harnoor-portfolio-three.vercel.app/">harnoor-portfolio-three.vercel.app</a>
+  🌐 <b>My Portfolio:</b> <a href="https://harnoor-portfolio-three.vercel.app/">harnoor-portfolio-three.vercel.app</a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=14&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=3rd+Year+CSE+%40+CGC+University+%7C+CGPA+9.54;Data+Analytics+%2B+Full-Stack+Dev+%7C+DSA+with+C%2B%2B;AVATAR+2K26+Ideathon+Winner+%F0%9F%A5%87+%7C+100+Days+Coding+1st+Position;1400%2B+Problems+Solved+%7C+Open+to+Internships+%26+Collabs" alt="Typing SVG" />
